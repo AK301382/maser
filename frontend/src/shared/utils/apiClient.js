@@ -1,6 +1,7 @@
 /**
  * Shared API Client
  * Reusable axios instance configuration
+ * Can be used in Admin Panel, Web App, and Mobile App
  */
 import axios from 'axios';
 
